@@ -1,0 +1,364 @@
+@media(max-width: 1200px){
+    .line_text{
+        flex-wrap:wrap;
+    }
+    .linia{
+        margin-left: 50px;
+        width: 420px;
+    }
+    .button_end{
+        width: 250px;
+        
+    }
+    .line p{
+        margin-left: 52px;
+    }
+    .main_menu a{
+        font-size:13px ;
+    }
+    .button_100{
+        width: 250px;
+    }
+    .button_75{
+        width: 250px;
+    }
+    .button_50{
+        width: 250px;
+    }
+    .button_block p{
+        width: 172px;
+    }
+    .komp p{
+        font-size: 14px;
+    }
+    .part_icon img{
+        padding: 20px 23px 20px 23px;
+    }
+    .part_icons img{
+        padding: 20px 23px 20px 23px;
+        
+    }
+    .part_line{
+        width: 1010px;
+    }
+}
+@media(max-width: 1100px) {
+    .linia_grad{
+        width: 270px;
+    }
+    .linia{
+        margin-left: 50px;
+        width: 400px;
+    }
+    .button_end{
+        width: 200px;
+    }
+    .main_menu a {
+        font-size: 12px;
+    }
+    .main_button a{
+        margin-right: 14px;
+        width: 112px;
+        
+    }
+    .komp img{
+        width: 370px;
+        height: 370px;
+    }
+    .komp span{
+        font-size: 46px;
+    }
+    .part_icon img{
+        width: 180px;
+    }
+    .part_icons img{
+        width: 180px;
+    }
+}
+@media(max-width:1050px){
+    .main_menu{
+        margin-left: 60px;
+    }
+    .main_button a{
+        margin-right: 14px;
+        width: 112px;
+        
+    }
+    .main_menu{
+        font-size: 12px;
+    }
+    .komp img{
+        width: 350px;
+        height: 350px;
+        margin-right: 65px;
+    }
+    .batton{
+        margin-left: 70px;
+    }
+    .header_center{
+        padding: 142px 0px 0px 154px;
+    }
+    .time{
+        margin-left: 158px;
+    }
+    .part_line {
+        width: 970px;
+    }
+    .button_100{
+        width: 220px;
+    }
+    .button_75{
+        width: 220px;
+    }
+    .button_50{
+        width: 220px;
+    }
+    .button_block p{
+        width: 147px;
+        font-size: 13px;
+    }
+    .button_end{
+        width: 220px;
+    }
+    .header_center h2{
+        font-size: 48px;
+    }
+    .timer h2{
+        font-size: 33px;
+    }
+    
+}
+@media(max-width:1000px){
+    .main_button a{
+        width: 109px;
+    }
+    .line p{
+        font-size: 14px;
+        margin-left: 40px;
+    }
+    .line span{
+        font-size: 14px;
+    }
+    .line_text a{
+        font-size: 14px;
+    }
+    .linia{
+        width: 370px;
+        margin-left: 33px;
+    }
+    .linia_grad{
+        width: 245px;
+    }
+    .header_center h2{
+        font-size: 44px;
+    }
+    .timer h2{
+        font-size: 30px;
+    }
+    .button_100{
+        width: 210px;
+    }
+    .button_75{
+        width: 210px;
+    }
+    .button_50{
+        width: 210px;
+    }
+    .button_block p{
+        width: 133px;
+        font-size: 13px;
+    }
+    .button_end{
+        width: 210px;
+    }
+    .o p{
+        font-size: 14px;
+    }
+    .started img{
+        width: 64px;
+    }
+    .started span{
+        font-size: 37px;
+    }
+    .proff_text p{
+        font-size: 45px;
+    }
+    .proff_iconochka span{
+        font-size: 13px;
+    }
+    .part_line{
+        width: 910px;
+    }
+    .part_icon img{
+        width: 170px;
+    }
+    .part_icons img{
+        width: 170px;
+    }
+    .part_head p{
+        font-size: 37px;
+    }
+    .part_head img{
+        width: 50px;
+        height: 50px;
+    }
+    .batton{
+        margin-left: 62px;
+    }
+    .linia_grad a{
+        font-size: 14px;
+    }
+    .linia_white{
+        font-size: 14px;
+    }
+    .komp img{
+        width: 320px;
+        height: 320px;
+    }
+    .komp p{
+        font-size: 13px;
+    }
+
+}
+@media(max-width:950px){
+    .main_menu{
+        margin-left: 30px;
+        font-size: 11px;
+    }
+    .main_button a{
+        margin-right: 11px;
+        width: 100px;
+    }
+    .nav_link{
+        padding: 0px 0px 0px 46px;
+    }
+    .button_100{
+        width: 200px;
+    }
+    .button_75{
+        width: 200px;
+    }
+    .button_50{
+        width: 200px;
+    }
+    .button_block p{
+        width: 123px;
+        font-size: 12px;
+    }
+    .button_end{
+        width: 200px;
+    }
+    .button_text p {
+        font-size: 33px;
+    }
+    .line p{
+        font-size: 13px;
+    }
+    .batton a{
+        font-size: 14px;
+    }
+    .batton{
+        margin-left: 56px;
+    }
+    .linia_grad{
+        width: 220px;
+    }
+    .linia{
+        width: 340px;
+    }
+    .komp img{
+        width: 300px;
+        margin-right: 50px;
+    }
+    .komp span{
+        font-size: 44px;
+    }
+    .part_line{
+        width: 860px;
+    }
+    .part_icon img{
+        width: 165px;
+    }
+    .part_icons img{
+        width: 165px;
+    }
+
+
+
+}
+@media(max-width:900px){
+    .main_menu a{
+        width: 93px;
+        margin-right: 11px;
+        font-size:11px ;
+        
+    }
+    .main_menu {
+        margin-left: 37px;
+    }
+    .nav_link{
+        padding: 0px 0px 0px 34px;
+    }
+    .line p {
+        font-size: 11px;
+    }
+    .batton{
+        width: 115px;
+    }
+    .line span{
+        margin-top: 15px;
+    }
+    .linia_white {
+        font-size: 13px;
+    }
+    .linia_grad a {
+        font-size: 10px;
+    }
+    .button_100{
+        width: 190px;
+    }
+    .button_75{
+        width: 190px;
+    }
+    .button_50{
+        width: 190px;
+    }
+    .button_block p{
+        width: 112px;
+        font-size: 11px;
+    }
+    .button_end{
+        width: 190px;
+    }
+    .proff_text p {
+        font-size: 43px;
+    }
+    .part_icon img {
+        width: 155px;
+    }
+    .part_icons img {
+        width: 155px;
+    }
+    .part_line {
+        width: 830px;
+    }
+    .footer_text p{
+        font-size: 44px;
+    }
+    .header_center {
+        padding: 142px 0px 0px 111px;
+    }
+    .time {
+        margin-left: 113px;
+    }
+    .komp p {
+        font-size: 12px;
+    }
+    .komp img {
+        width: 285px;
+        margin-right: 40px;
+    }
+    .komp span {
+        font-size: 42px;
+    }
+}
